@@ -1,0 +1,23 @@
+{
+  "name": "junkins",
+  "version": "1.0.0",
+  "description": "Some Junkins stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simozzer/Junkins.git"
+  },
+  "keywords": [
+    "jenkins",
+    "groovy"
+  ],
+  "author": "Simon Moscrop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simozzer/Junkins/issues"
+  },
+  "homepage": "https://github.com/simozzer/Junkins#readme"
+}
